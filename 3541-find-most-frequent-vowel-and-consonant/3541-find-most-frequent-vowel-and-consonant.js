@@ -1,7 +1,3 @@
-/**
- * @param {string} s
- * @return {number}
- */
 var maxFreqSum = function(s) {
     let vow= new Map();
     let cons=new Map();

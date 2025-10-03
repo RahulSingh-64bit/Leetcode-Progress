@@ -1,2 +1,2 @@
 # Leetcode-Progress
-Collection of LeetCode questions to ace the coding interview! (JavaScript, C++)
+Collection of Solved LeetCode questions (JavaScript, C++)
